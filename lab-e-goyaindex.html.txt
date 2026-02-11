@@ -52,7 +52,7 @@ header{
 
 <script>
 /* ========= صرف یہاں تبدیلی کریں ========= */
-const totalPages = 120;   // کتاب کے کل صفحات
+const totalPages = 355;   // کتاب کے کل صفحات
 const imagePath = "images"; // امیجز فولڈر
 /* ======================================= */
 
@@ -69,3 +69,4 @@ for(let i=1; i<=totalPages; i++){
 
 </body>
 </html>
+
